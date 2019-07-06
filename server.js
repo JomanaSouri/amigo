@@ -20,7 +20,7 @@ app.use(express.urlencoded());
 /* GET home page. */
 app.get("/", (req, res) =>
   res.json({
-    msg: "Hello! Jomana"
+    msg: "Hello! Joma"
   })
 );
 
